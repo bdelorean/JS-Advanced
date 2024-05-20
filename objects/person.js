@@ -15,7 +15,6 @@ const person = {
   introduceSelf: function () {
     return `Hoi mijn naam is ${this.name} en ik ben ${this.age} jaar oud`; //omdat ik nog in object zit moet ik this gebruiken en niet person.name...zit je buiten het object dan doe je person.name
   },
-<<<<<<< Updated upstream
   hobby: ["lezen", "singen", "skaten", "wandelen"],
   pushHobby: function (newHobby) {
     this.hobby.push(newHobby);
@@ -24,10 +23,6 @@ const person = {
   changeLiveStatus: function () {
     return (this.alive = false);
   },
-=======
-  
-
->>>>>>> Stashed changes
 };
 console.log(person.introduceSelf());
 person.rename("koe");
