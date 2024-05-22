@@ -1,0 +1,41 @@
+[
+    {
+        "name":"Ana",
+        "age":"25 years",
+        "img":"./img/Ana.jpg"
+    
+    },
+    {
+        "name":"Haizam",
+        "age":"40 years",
+        "img":"./img/Haizam.jpg"
+    
+    },
+    {
+        "name":"Ioana",
+        "age":"30 years",
+        "img":"./img/Ioana.jpg"
+    
+    },
+    {
+        "name":"Maria",
+        "age":"28 years",
+        "img":"./img/Maria.jpg"
+    
+    },
+    {
+        "name":"John",
+        "age":"37 years",
+        "img":"./img/John.jpg"
+    
+    },
+    {
+        "name":"Tom",
+        "age":"25 years",
+        "img":"./img/Tom.jpg"
+    
+    }
+]
+    
+
+   
