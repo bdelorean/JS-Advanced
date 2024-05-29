@@ -1,0 +1,15 @@
+.container img {
+  height: 30vh;
+}
+.container{
+    background-color: lightgray;
+    width: 20vw;
+    display: grid;
+    place-items: center;
+}
+.output {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  place-items: center;
+}
