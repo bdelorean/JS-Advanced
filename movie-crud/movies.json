@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Avatar - The Way of Water",
+      "year": "2023",
+      "rating": "10",
+      "img": "avatar.jpg"
+    },
+    {
+      "id": "77a1",
+      "title": "asdf",
+      "year": "asdf",
+      "img": "123",
+      "rating": "3"
+    },
+    {
+      "id": "d50e",
+      "title": "Spirit",
+      "year": "2000",
+      "img": "spirit.jpg",
+      "rating": "5"
+    }
+  ]
+}
