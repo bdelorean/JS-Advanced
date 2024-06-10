@@ -18,7 +18,7 @@ console.log(cars[1])// hij gaat de Audi laten zien
 Om alle elementen onder elkaar te laten zien moet een for loop gebruiken 
 ```
 for(let i=0; i < cars.length; i++){
-    console.log(autos[i]);
+    console.log(cars[i]);
  }
 
 ```

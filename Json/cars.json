@@ -12,3 +12,23 @@
         "model": "X7" 
     }
 ]
+        "name": "Fiat",
+        "model": "500",
+        "weight": "850kg",
+        "color": "white"
+      },
+      {
+        "name": "Volvo",
+        "model": "S60",
+        "weight": "1200kg",
+        "color": "Grey"
+      },
+      {
+        "name": "BMW",
+        "model": "X7",
+        "weight": "1350kg",
+        "color": "Black"
+      }
+       
+]
+

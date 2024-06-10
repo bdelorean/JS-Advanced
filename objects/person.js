@@ -35,17 +35,14 @@ console.log(person.hobby);
 
 
 outputPerson.innerHTML += `<h1>Ik ben ${person.height} m lang</h1>
-<<<<<<< Updated upstream
 <p> ${person.introduceSelf()}</p>
 <p>${person.hobby}</p> 
 <p>${person.alive}</p>
 <p>${person.changeLiveStatus()}</p>
 <p>${person.hobby}</p>`; //zo kan jij de content van een functie laten zien
-=======
 <p> ${person.introduceSelf()}</p> 
 `
 ; //zo kan jij de content van een functie en van een eigenschap van die object laten zien 
->>>>>>> Stashed changes
 
 const newPerson = {
   //sprean operator == kopieer alles van het object person ( ...)
