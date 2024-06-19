@@ -1,18 +1,11 @@
 {
   "movies": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Avatar - The Way of Water",
       "year": "2023",
-      "rating": "10",
+      "rating": "11",
       "img": "avatar.jpg"
-    },
-    {
-      "id": "77a1",
-      "title": "asdf",
-      "year": "asdf",
-      "img": "123",
-      "rating": "3"
     },
     {
       "id": "d50e",
